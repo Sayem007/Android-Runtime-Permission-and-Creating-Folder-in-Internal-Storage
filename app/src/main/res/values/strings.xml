@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CreatingFolder</string>
+    <string name="create_folder">Create Folder</string>
+    <string name="create_sub_folder">Create Sub Folder</string>
+</resources>
