@@ -1,4 +1,4 @@
-# Runtime Storage Permission and Creating Folder In Device
+# Runtime Storage Permission and Creating Folder/Sub-Folder
 
 A sample android application to check Runtime (Storage) Permission and Creating Folder or Sub-folder in Internal Storage.
 
